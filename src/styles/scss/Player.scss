@@ -1,0 +1,20 @@
+.PaperPlayer {
+  width: 100px;
+  height: 110px;
+}
+.PaperPlayerContainer {
+  margin-left:5px;
+  padding-top: 5px;
+  img {
+    width: 90px;
+    height: 100px;
+  }
+
+  .PlayerId {
+    text-align: center;
+    margin-top: -44px;
+    margin-left: -5px;
+    font-family: Roboto, Helvetica, sans-serif;;
+    font-size: 1.8em;
+  }
+}

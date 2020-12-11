@@ -1,0 +1,13 @@
+.ActionButtons {
+  text-align: center; }
+
+.HelpText {
+  margin-top: 20px;
+  padding: 10px;
+  color: rgba(0, 0, 0, 0.54); }
+  .HelpText .Red {
+    color: #f50057; }
+  .HelpText .Blue {
+    color: #3f51b5; }
+
+/*# sourceMappingURL=ActionButtons.css.map */

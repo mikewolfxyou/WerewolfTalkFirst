@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA,wBAAyB;EACvB,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,IAAI",
+"sources": ["../scss/SetTotalPlayer.scss"],
+"names": [],
+"file": "SetTotalPlayer.css"
+}
